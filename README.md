@@ -12,7 +12,7 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
 - 📫 How to reach me: https://vangelif.setmore.com/
 - 😄 Pronouns: he/his 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangelif&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangelif&show_icons=true&theme=monokai)
 
 ## Connect with Vangelis
 
