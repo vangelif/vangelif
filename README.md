@@ -9,7 +9,7 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
 
 - 🔭 I’m currently working on Microverse as a Mentor 
 - 🌱 I’m currently learning the front-end tech stack 
-- 📫 How to reach me: (https://vangelif.setmore.com/)
+- 📫 How to reach me: https://vangelif.setmore.com/
 - 😄 Pronouns: he/his 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangelif&show_icons=true&theme=gruvbox)
