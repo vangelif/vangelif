@@ -27,10 +27,10 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
 
 ## Get inspired & Read
 
-- ![Documentaries on Computing](https://vangelis.website/inspirational-reading)
-- ![Normalizing the Extremes](https://vangelis.website/essays/normalizing-the-extremes)
-- ![Life-altering Conversation](https://vangelis.website/essays/a-life-altering-conversation)
-- ![Affinities for the Sea](https://vangelis.website/essays/on-my-affinities-for-the-sea)
+- <a href="https://vangelis.website/inspirational-reading">Documentaries on Computing</a>
+- <a href="https://vangelis.website/essays/normalizing-the-extremes">Normalizing the Extremes</a>
+- <a href="https://vangelis.website/essays/a-life-altering-conversation">Life-altering Conversation</a>
+- <a href="https://vangelis.website/essays/on-my-affinities-for-the-sea">Affinities for the Sea</a>
 
 ## Support
 
