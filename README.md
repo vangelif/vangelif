@@ -5,7 +5,7 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
 
 ## Skills and Current status
 
-  JS / HTML / CSS / JAVA / SQL / UML
+  JAVASCRIPT / HTML / CSS / JAVA / SQL / UML
 
 - 🔭 I’m currently working on Microverse as a Mentor 
 - 🌱 I’m currently learning the front-end tech stack 
@@ -24,6 +24,13 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
 <a href="https://leetcode.com/Vangeli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Vangeli/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ev_fotiades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ev_fotiades" height="30" width="40" /></a>
 </p>
+
+## Get inspired & Read
+
+- ![Documentaries on Computing](https://vangelis.website/inspirational-reading)
+- ![Normalizing the Extremes](https://vangelis.website/essays/normalizing-the-extremes)
+- ![Life-altering Conversation](https://vangelis.website/essays/a-life-altering-conversation)
+- ![Affinities for the Sea](https://vangelis.website/essays/on-my-affinities-for-the-sea)
 
 ## Support
 
