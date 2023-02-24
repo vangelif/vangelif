@@ -5,7 +5,7 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
 
 ## Skills and Current status
 
-  JAVASCRIPT / HTML / CSS / JAVA / SQL / UML
+  JAVASCRIPT / HTML / CSS / WEBPACK / BOOTSTRAP / SASS / JAVA / SQL / UML
 
 - 🔭 I’m currently working on Microverse as a Mentor 
 - 🌱 I’m currently learning the front-end tech stack 
