@@ -5,7 +5,7 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
 
 ## Skills and Current status
 
-  JAVASCRIPT / HTML / CSS / WEBPACK / BOOTSTRAP / SASS / JAVA / SQL / UML
+  JEST / JAVASCRIPT / HTML / CSS / WEBPACK / BOOTSTRAP / SASS / JAVA / SQL / UML
 
 - 🔭 I’m currently working on Microverse as a Mentor 
 - 🌱 I’m currently learning the front-end tech stack 
@@ -25,13 +25,20 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
 <a href="https://www.hackerrank.com/ev_fotiades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ev_fotiades" height="30" width="40" /></a>
 </p>
 
-## Get inspired & Read
+## Watch & Get inspired  
 
 - <a href="https://vangelis.website/inspirational-reading">Documentaries on Computing</a>
+- <a href="https://vangelis.website/inspirational-reading">Documentaries on Chinese Thought</a>
+- <a href="https://vangelis.website/inspirational-reading">Documentaries on Western Thought</a>
+
+## Read
+
 - <a href="https://vangelis.website/essays/normalizing-the-extremes">Normalizing the Extremes</a>
 - <a href="https://vangelis.website/essays/a-life-altering-conversation">Life-altering Conversation</a>
 - <a href="https://vangelis.website/essays/on-my-affinities-for-the-sea">Affinities for the Sea</a>
 
 ## Support
+
+- <a href="https://vangelis.website/charity">Offer to the greater good</a>
 
 <p><a href="https://www.buymeacoffee.com/vangeli"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vangeli" /></a></p><br><br>
