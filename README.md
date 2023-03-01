@@ -36,9 +36,19 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
 - <a href="https://vangelis.website/essays/normalizing-the-extremes">Normalizing the Extremes</a>
 - <a href="https://vangelis.website/essays/a-life-altering-conversation">Life-altering Conversation</a>
 - <a href="https://vangelis.website/essays/on-my-affinities-for-the-sea">Affinities for the Sea</a>
+- <a href="https://vangelis.website/essays/my-shanghai">My Shanghai</a>
+- <a href="https://vangelis.website/essays/supply-chain-1">The Foggy Obscurity of the Self-evident</a>
 
 ## Support
 
-- <a href="https://vangelis.website/charity">Offer to the greater good</a>
+- <a href="https://vangelis.website/charity">Offer to the Greater Good</a>
 
 <p><a href="https://www.buymeacoffee.com/vangeli"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vangeli" /></a></p><br><br>
+
+## Vangelis Recommendations
+
+- <a href="https://blog.codinghorror.com/">Jeff Atwood Blog</a>
+- <a href="https://www.joelonsoftware.com/">Joel Spolsky's Blog</a>
+- <a href="https://www.yudkowsky.net/">Eliazer Yudkowsky's Blog</a>
+- <a href="https://venkateshrao.com/">Venkatesh Rao's Blog</a>
+- <a href="http://www.paulgraham.com/articles.html">Paul Graham's Essays</a>
