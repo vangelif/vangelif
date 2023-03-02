@@ -47,7 +47,7 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
 
 ## Vangelis Recommendations
 
-- <a href="https://blog.codinghorror.com/">Jeff Atwood Blog</a>
+- <a href="https://blog.codinghorror.com/">Jeff Atwood's Blog</a>
 - <a href="https://www.joelonsoftware.com/">Joel Spolsky's Blog</a>
 - <a href="https://www.yudkowsky.net/">Eliazer Yudkowsky's Blog</a>
 - <a href="https://venkateshrao.com/">Venkatesh Rao's Blog</a>
