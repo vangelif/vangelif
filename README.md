@@ -8,7 +8,7 @@ I am an aspiring Full Stack developer and Mentor at Microverse. I served the Mar
   JEST / JAVASCRIPT / HTML / CSS / WEBPACK / BOOTSTRAP / SASS / JAVA / SQL / UML
 
 - 🔭 I’m currently working on Microverse as a Mentor 
-- ✨ I'm hosting Coffee 'n Code every Saturday and <a href="https://chat.whatsapp.com/K1Ln38vFTYeD6pgVZm75Ks">you can join us as well</a>
+- ✨ I'm hosting <a href="https://chat.whatsapp.com/K1Ln38vFTYeD6pgVZm75Ks">Coffee 'n Code every Saturday</a>
 - 🌱 I’m currently learning the front-end tech stack 
 - 📫 Reach out to me <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a>, <a href="https://t.me/vangelif">here</a> and <a href="https://vangelif.setmore.com/">here</a>
 - 😄 Pronouns: he/his 
