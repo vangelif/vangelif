@@ -37,19 +37,17 @@ I am a Full Stack developer and Mentor at Microverse. I served the Maritime Indu
 <a href="https://www.hackerrank.com/ev_fotiades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ev_fotiades" height="30" width="40" /></a>
 </p>
 
-## Watch & Get inspired  
+## Docu-Watch & Get inspired  
 
-- <a href="https://vangelis.website/inspirational-reading">Documentaries on Computing</a>
-- <a href="https://vangelis.website/inspirational-reading">Documentaries on Chinese Thought</a>
-- <a href="https://vangelis.website/inspirational-reading">Documentaries on Western Thought</a>
+- <a href="https://vangelis.website/inspirational-reading">On Computing</a>
+- <a href="https://vangelis.website/inspirational-reading">On Chinese Thought</a>
+- <a href="https://vangelis.website/inspirational-reading">On Western Thought</a>
 
 ## Read
 
 - <a href="https://vangelis.website/essays/normalizing-the-extremes">Normalizing the Extremes</a>
 - <a href="https://vangelis.website/essays/a-life-altering-conversation">Life-altering Conversation</a>
-- <a href="https://vangelis.website/essays/on-my-affinities-for-the-sea">Affinities for the Sea</a>
 - <a href="https://vangelis.website/essays/my-shanghai">My Shanghai</a>
-- <a href="https://vangelis.website/essays/supply-chain-1">The Foggy Obscurity of the Self-evident</a>
 
 ## Support
 
@@ -57,7 +55,7 @@ I am a Full Stack developer and Mentor at Microverse. I served the Maritime Indu
 
 <p><a href="https://www.buymeacoffee.com/vangeli"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vangeli" /></a></p><br><br>
 
-## Vangelis Recommendations
+## Recommendations
 
 - <a href="https://blog.codinghorror.com/">Jeff Atwood's Blog</a>
 - <a href="https://www.joelonsoftware.com/">Joel Spolsky's Blog</a>
