@@ -5,8 +5,6 @@ I am a Full Stack developer and Mentor at Microverse. I served the Maritime Indu
 
 ## Skills and Current status
 
-  JEST / JAVASCRIPT / HTML / CSS / WEBPACK / BOOTSTRAP / SASS / JAVA / SQL / UML
-
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
