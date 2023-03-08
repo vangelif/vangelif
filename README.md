@@ -9,7 +9,7 @@ I am a Full Stack developer and Mentor at Microverse. I served the Maritime Indu
 
 - 🔭 I’m currently working on Microverse as a Mentor 
 - ✨ I'm hosting <a href="https://chat.whatsapp.com/K1Ln38vFTYeD6pgVZm75Ks">Coffee 'n Code every Saturday</a>
-- 🌱 I’m currently learning the front-end tech stack 
+- 🌱 I’m currently learning the front-end tech stack, studying React and Ruby 
 - 📫 Reach out to me <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a>, <a href="https://t.me/vangelif">here</a> and <a href="https://vangelif.setmore.com/">here</a>
 - 😄 Pronouns: he/his 
 
