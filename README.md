@@ -9,8 +9,7 @@ I am a Full Stack developer and Mentor at Microverse. I served the Maritime Indu
 
 - 🔭 I’m currently working on Microverse as a Mentor 
 - ✨ I'm hosting <a href="https://chat.whatsapp.com/K1Ln38vFTYeD6pgVZm75Ks">Coffee 'n Code every Saturday</a>
-- 🌱 I’m currently learning the front-end tech stack
-- 🖋️ I'm studying React and Ruby
+- 🌱 I’m currently learning React and Ruby
 - 📫 Reach out to me <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a>, <a href="https://t.me/vangelif">here</a> and <a href="https://vangelif.setmore.com/">here</a>
 - 😄 Pronouns: he/his 
 
@@ -27,7 +26,6 @@ I am a Full Stack developer and Mentor at Microverse. I served the Maritime Indu
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 ## Docu-Watch & Get inspired  
 
