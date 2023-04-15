@@ -54,7 +54,7 @@ I am a Front End developer and Mentor at Microverse. I served the Maritime Indus
 - <a href="https://vangelis.website/charity">Offer to the Greater Good</a>
 
 ## Recommendations
-
+ 
 - <a href="https://blog.codinghorror.com/">Jeff Atwood's Blog</a>
 - <a href="https://www.joelonsoftware.com/">Joel Spolsky's Blog</a>
 - <a href="https://www.yudkowsky.net/">Eliazer Yudkowsky's Blog</a>
