@@ -15,8 +15,6 @@ I am a Front End developer and Mentor at Microverse. I served the Maritime Indus
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangelif&show_icons=true&theme=monokai)
 
-<p align="left"> 
-
 ## Docu-Watch & Get inspired  
 
 - <a href="https://vangelis.website/inspirational-reading">On Computing</a>
@@ -33,6 +31,7 @@ I am a Front End developer and Mentor at Microverse. I served the Maritime Indus
 ## Support & Skills
 
 - <a href="https://vangelis.website/charity">Offer to the Greater Good</a>
+<p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
