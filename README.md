@@ -33,12 +33,6 @@ I am a Front End developer and Mentor at Microverse. I served the Maritime Indus
 - <a href="https://vangelis.website/inspirational-reading">On Chinese Thought</a>
 - <a href="https://vangelis.website/inspirational-reading">On Western Thought</a>
 
-## Read
-
-- <a href="https://vangelis.website/essays/normalizing-the-extremes">Normalizing the Extremes</a>
-- <a href="https://vangelis.website/essays/a-life-altering-conversation">Life-altering Conversation</a>
-- <a href="https://vangelis.website/essays/my-shanghai">My Shanghai</a>
-
 ## Connect with Vangelis
 
 <p align="left">
