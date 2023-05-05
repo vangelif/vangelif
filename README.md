@@ -2,7 +2,7 @@
 I am a Full Stack developer and Mentor at Microverse. I served the Maritime Industry for 10 years and I have assumed jobs in 2 European and 2 Asian countries. Aside from programming languages I <a href="https://vangelis.website/essays/the-three-self-sabotaging-fears">tutor</a> and <a href="https://vangelis.website/essays/the-pillars-of-mandarin-learning">translate</a> from/to <a href="https://vangelis.website/essays/a-journey-to-the-east">Mandarin Chinese</a>. 
 
 ![I am an aspiring Full Stack developer.](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
-
+ 
 ## Current status
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vangelif&label=Profile%20views&color=ce9927&style=flat" alt="vangelif" /> </p>
