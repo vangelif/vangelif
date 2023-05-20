@@ -9,6 +9,7 @@ I am a Full Stack developer and Mentor at Microverse. I served the Maritime Indu
  
 - 🔭 I’m currently working on Microverse as a Mentor 
 - ✨ I'm running <a href="https://chat.whatsapp.com/DG71LdRpWNl51uu9ju2t6T">dev deck</a>, a community with <a href="https://chat.whatsapp.com/K1Ln38vFTYeD6pgVZm75Ks">weekly meetups</a> 
+- ✍️ I'm publishing weekly on <a href="https://vangelis.website/on-methexis">Methexis newsletter</a> 
 - 🌱 I’m currently learning <a href="https://legacy.reactjs.org/">React</a> and <a href="https://www.ruby-lang.org/en/">Ruby</a>
 - 📫 Reach out to me <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a>, <a href="https://t.me/vangelif">here</a> and <a href="https://vangelif.setmore.com/">here</a>
 - 😄 Pronouns: he/his 
