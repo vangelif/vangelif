@@ -43,6 +43,8 @@ I am a Full Stack developer and Mentor at Microverse. I served the Maritime Indu
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vangelif&show_icons=true&locale=en&layout=compact" alt="vangelif" /></p><br><br><br><br><br><br>
 
 ## Recommendations
  
