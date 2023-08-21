@@ -55,7 +55,7 @@ I am a Full Stack developer and Educational Mentor at Microverse. I served the M
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vangelif&show_icons=true&locale=en&layout=compact" alt="vangelif" /></p><br><br><br><br><br><br><br>
 
 ## Recommendations
- 
+  
 - <a href="https://blog.codinghorror.com/">Jeff Atwood's Blog</a>
 - <a href="https://www.joelonsoftware.com/">Joel Spolsky's Blog</a>
 - <a href="https://www.yudkowsky.net/">Eliazer Yudkowsky's Blog</a>
