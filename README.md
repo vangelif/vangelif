@@ -16,8 +16,7 @@ I am a Full Stack developer and Educational Mentor at Microverse. I served the M
 
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785422" alt="ruby" height="100" width="100"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794495" alt="html-css" height="100" width="100"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74439977" alt="javascript" height="100" width="100"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898521" alt="html-css" height="100" width="100"/> 
- 
- 
+  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangelif&show_icons=true&theme=monokai)
 
