@@ -12,7 +12,6 @@ I am a Full Stack developer and Educational Mentor at Microverse. I served the M
 - ✍️ I'm publishing weekly on <a href="https://vangelis.website/on-methexis">Methexis newsletter</a> 
 - 🌱 I’m currently learning <a href="https://rubyonrails.org/">Ruby on Rails</a>
 - 📫 Reach out to me <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a>
-- 😄 Pronouns: he/his 
 
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785422" alt="ruby" height="100" width="100"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794495" alt="html-css" height="100" width="100"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74439977" alt="javascript" height="100" width="100"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898521" alt="html-css" height="100" width="100"/> 
