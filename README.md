@@ -24,7 +24,7 @@ I am a Full Stack developer and Educational Mentor at Microverse. I served the M
 - <a href="https://vangelis.website/inspirational-reading">On Chinese Thought</a>
 - <a href="https://vangelis.website/inspirational-reading">On Western Thought</a>
 
-## Connect with Vangeli
+## Connect with Vangelis
 
 <p align="left">
 <a href="https://twitter.com/vangfot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vangfot" height="30" width="40" /></a>
