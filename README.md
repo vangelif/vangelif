@@ -18,7 +18,7 @@ I am a Full Stack developer and Educational Mentor at Microverse. I served the M
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangelif&show_icons=true&theme=monokai)
 
-## Docu-Watch & Get inspired  
+## Get inspired  
 
 - <a href="https://vangelis.website/inspirational-reading">On Computing</a>
 - <a href="https://vangelis.website/inspirational-reading">On Chinese Thought</a>
