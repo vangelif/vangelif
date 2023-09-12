@@ -31,7 +31,7 @@ I am a Full Stack developer and Educational Mentor at Microverse. I served the M
 <a href="https://linkedin.com/in/vangfot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@vangfot" height="30" width="40" /></a>
 </p>
 
-## Support & Skills
+## Support
 
 - <a href="https://vangelis.website/charity">Offer to the Greater Good</a>
 <p align="left"> 
