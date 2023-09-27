@@ -10,7 +10,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 - 🔭 working on Microverse as an Educational Mentor 
 - ✨ running <a href="https://chat.whatsapp.com/DG71LdRpWNl51uu9ju2t6T">dev deck</a>, a community with <a href="https://chat.whatsapp.com/K1Ln38vFTYeD6pgVZm75Ks">occassional meetups</a>
 - 🌱 currently learning <a href="https://rubyonrails.org/">Ruby on Rails</a>
-- 📫 reach out to me <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a>
+- 📫 reach out <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a>
 
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785422" alt="ruby" height="100" width="100"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794495" alt="html-css" height="100" width="100"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74439977" alt="javascript" height="100" width="100"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898521" alt="html-css" height="100" width="100"/> 
