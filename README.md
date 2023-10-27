@@ -4,7 +4,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 ![I am an aspiring Full Stack developer.](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
  
 ## Current status
- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vangelif&label=Profile%20views&color=ce9927&style=flat" alt="vangelif" /> </p>
  
 - 🔭 working on Microverse as an Educational Mentor 
