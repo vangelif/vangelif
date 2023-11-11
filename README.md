@@ -18,7 +18,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangelif&show_icons=true&theme=monokai)
 
-## Watch  
+## Watch   
 
 - <a href="https://vangelis.website/inspirational-reading">On Computing</a>
 - <a href="https://vangelis.website/inspirational-reading">On Chinese Thought</a>
