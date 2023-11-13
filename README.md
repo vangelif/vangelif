@@ -59,3 +59,5 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 - <a href="https://venkateshrao.com/">Venkatesh Rao's Blog</a>
 - <a href="http://www.paulgraham.com/articles.html">Paul Graham's Essays</a>
 - <a href="http://wadler.blogspot.com/">Philip Wadler's Blog</a>
+- <a href="https://slatestarcodex.com/">Slate Star Codex Blog</a> 
+ 
