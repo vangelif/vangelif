@@ -3,7 +3,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 
 ![I am an aspiring Full Stack developer.](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
  
-## Current status   
+## Latest Status   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vangelif&label=Profile%20views&color=ce9927&style=flat" alt="vangelif" /> </p>
  
@@ -18,23 +18,27 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangelif&show_icons=true&theme=monokai)
 
-## Watch   
+<!-- ## Watch   
 
 - <a href="https://vangelis.website/inspirational-reading">On Computing</a>
 - <a href="https://vangelis.website/inspirational-reading">On Chinese Thought</a>
 - <a href="https://vangelis.website/inspirational-reading">On Western Thought</a>
+-->
 
-## Connect  
+## Media  
 
 <p align="left">
 <a href="https://twitter.com/vangfot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vangfot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vangfot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@vangfot" height="30" width="40" /></a>
 </p>
 
-## Support
+<!-- ## Support
 
 - <a href="https://vangelis.website/charity">Offer to the Greater Good</a>
-<p align="left"> 
+-->
+ ## Stack 
+<p align="left">
+ 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -51,7 +55,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vangelif&show_icons=true&locale=en&layout=compact" alt="vangelif" /></p><br><br><br><br><br><br><br>
 
-## Recommended reading
+<!--## Recommended reading
   
 - <a href="https://blog.codinghorror.com/">Jeff Atwood's Blog</a>
 - <a href="https://www.joelonsoftware.com/">Joel Spolsky's Blog</a>
@@ -59,5 +63,5 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 - <a href="https://venkateshrao.com/">Venkatesh Rao's Blog</a>
 - <a href="http://www.paulgraham.com/articles.html">Paul Graham's Essays</a>
 - <a href="http://wadler.blogspot.com/">Philip Wadler's Blog</a>
-- <a href="https://slatestarcodex.com/">Slate Star Codex Blog</a> 
+- <a href="https://slatestarcodex.com/">Slate Star Codex Blog</a> -->
  
