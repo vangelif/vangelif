@@ -36,7 +36,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 
 - <a href="https://vangelis.website/charity">Offer to the Greater Good</a>
 -->
-## Stack 
+## Stack
 <p align="left">
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
