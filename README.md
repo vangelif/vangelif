@@ -7,7 +7,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vangelif&label=Profile%20views&color=ce9927&style=flat" alt="vangelif" /> </p>
  
-- 🔭 working on Microverse as an Educational Mentor 
+- 🔭 working on Microverse as an Educational Mentor
 - ✨ admining dev deck 📟, a <a href="https://chat.whatsapp.com/DG71LdRpWNl51uu9ju2t6T">tech community</a>  
 - 🌱 currently learning <a href="https://rubyonrails.org/">Ruby on Rails</a>
 - 📫 reach out <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a>
