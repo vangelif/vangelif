@@ -14,7 +14,6 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93964796" alt="capstone" height="90" width="90" /><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92027157" alt="rails" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785422" alt="ruby" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794495" alt="html-css" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74439977" alt="javascript" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898521" alt="html-css" height="90" width="90"/> 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangelif&show_icons=true&theme=monokai)
 
 <!-- ## Watch   
