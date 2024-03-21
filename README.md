@@ -33,7 +33,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 <!-- ## Support
 
 - <a href="https://vangelis.website/charity">Offer to the Greater Good</a>
--->
+--> 
 ## Stack
 <p align="left">
  
