@@ -10,7 +10,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 - 🔭 volunteering at Microverse as an Educational Mentor
 - ✨ admining dev deck 📟, a <a href="https://chat.whatsapp.com/DG71LdRpWNl51uu9ju2t6T">tech community</a> 
 - 🌱 building dev deck 📟 <a href="https://docs.google.com/forms/d/1Jd4RjcaMdgoOMbLTwwM2CtjsHfnCRqjUKnG5E9-0vpA/prefill">projects</a> 
-- 📫 reach out <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a> 
+- 📫 reach out <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a>
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93964796" alt="capstone" height="90" width="90" /><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92027157" alt="rails" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785422" alt="ruby" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794495" alt="html-css" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74439977" alt="javascript" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898521" alt="html-css" height="90" width="90"/> 
 
