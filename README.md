@@ -1,7 +1,7 @@
 # Vangelis Fotiadis 
 Full Stack developer and Educational Mentor at Microverse. I served the Maritime Industry for 10 years and I have assumed jobs in 2 European and 2 Asian countries. Aside from programming languages I tutor and translate from/to Mandarin Chinese.
  
-![I am an aspiring Full Stack developer.](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif) 
+![I am an aspiring Full Stack developer.](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 
 ## Latest Status  
 
