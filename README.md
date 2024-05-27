@@ -30,7 +30,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 <a href="https://www.facebook.com/vangelif" target="blank"><img align="center" src="http://i.imgur.com/fep1WsG.png" alt="@vangfot" height="30" width="40" /></a>
 <a href="https://twitter.com/vangelif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vangfot" height="30" width="40" /></a>
 
-</p>
+</p> 
 
 <!-- ## Support
 - <a href="https://vangelis.website/charity">Offer to the Greater Good</a>
