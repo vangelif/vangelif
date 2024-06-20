@@ -5,7 +5,7 @@ Full Stack developer and Educational Mentor at Microverse. I served the Maritime
 
 ## Latest Status
 
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=vangelif&label=Profile%20views&color=ce9927&style=flat" alt="vangelif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vangelif&label=Profile%20views&color=ce9927&style=flat" alt="vangelif" /> </p>
 
 - 🔭 working as a Front End Developer at OdysseyCS 
 - ✨ admining dev deck 📟, a <a href="https://chat.whatsapp.com/DG71LdRpWNl51uu9ju2t6T">tech community</a> 
