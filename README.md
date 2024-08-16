@@ -1,5 +1,18 @@
 # Vangelis Fotiadis 
-Full Stack developer and Educational Mentor at Microverse. I served the Maritime Industry for 10 years and I have assumed jobs in 2 European and 2 Asian countries. Aside from programming languages I tutor and translate from/to Mandarin Chinese.
+🚀 Full Stack Developer | Mandarin Teacher | Former Maritime Professional  | Inspired to Build Pioneering Tech Projects 🌟
+
+As a Full Stack Developer, I bring a unique blend of experiences from my previous roles in the maritime industry and as a Mandarin teacher & translator. I was previously an Educational Mentor at Microverse, a remote software development organization, where I've completed over 40 real-life projects, mastering both front-end and back-end technologies.
+
+During the course of this journey, I had the privilege to meet 300+ Full Stack Developers, investing over 1300 hours on mastering data structures and algorithms. What's more, I built a community of 150+ fellow Full Stack Developers which I am currently administering. I also mentored a small team of 5 junior developers. 🚀💡👥
+
+In my latest capstone project, I spearheaded the development of a comprehensive web interface for a logistics firm. Both front-end and back-end, showcasing my proficiency in HTML/CSS, JavaScript, React, Redux, Ruby, Rails, and PostgreSQL. Combining my passion for languages with my love for coding, I crafted a seamless user experience that I'm truly proud of.
+
+🔧 Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3, SCSS, MaterialUI, Tailwind <br>
+⚙️ Back-End: Ruby, Ruby on Rails, Capybara, Devise, PostgreSQL <br>
+🛠️ Tools & Methods: Git, Github, TDD, Chrome Dev Tools <br>
+💼 Professional Skills: Remote Pair-Programming, System Designing, Architecture, Mentoring, Planning <br>
+
+I am also honing my skill in other frameworks and libraries such as Three.js and Blender.
  
 ![I am an aspiring Full Stack  developer.](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif) 
 
