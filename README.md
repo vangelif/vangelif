@@ -1,5 +1,5 @@
 # Vangelis Fotiadis 
-🚀 Full Stack Developer | Mandarin Teacher | Former Maritime Professional  | Inspired to Build Pioneering Tech Projects 🌟
+🚀 Full Stack Developer | Mandarin Teacher | Former Maritime Professional  | Inspired to Build Pioneering Tech Projects 🌟 
 
 As a Full Stack Developer, I bring a unique blend of experiences from my previous roles in the maritime industry and as a Mandarin teacher & translator. I was previously an Educational Mentor at Microverse, a remote software development organization, where I've completed over 40 real-life projects, mastering both front-end and back-end technologies. 
 
