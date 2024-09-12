@@ -5,7 +5,7 @@ As a Full Stack Developer, I bring a unique blend of experiences from my previou
 
 During the course of this journey, I had the privilege to meet 300+ Full Stack Developers, investing over 1300 hours on mastering data structures and algorithms. What's more, I built a community of 150+ fellow Full Stack Developers which I am currently administering. I also mentored a small team of 5 junior developers. 🚀💡👥 
 
-In my latest capstone project, I spearheaded the development of a comprehensive web interface for a logistics firm. Both front-end and back-end, showcasing my proficiency in HTML/CSS, JavaScript, React, Redux, Ruby, Rails, and PostgreSQL. Combining my passion for languages with my love for coding, I crafted a seamless user experience that I'm truly proud of.
+In my latest capstone project, I spearheaded the development of a comprehensive web interface for a logistics firm. Both front-end and back-end, showcasing my proficiency in HTML/CSS, JavaScript, React, Redux, Ruby, Rails, and PostgreSQL. Combining my passion for languages with my love for coding, I crafted a seamless user experience that I'm truly proud of. 
 
 🔧 Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3, SCSS, MaterialUI, Tailwind <br>
 ⚙️ Back-End: Ruby, Ruby on Rails, Capybara, Devise, PostgreSQL <br>
