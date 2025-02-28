@@ -10,8 +10,11 @@ Previously, I was an Educational Mentor at Microverse, a global remote software 
 In my latest capstone project, I led the development of a comprehensive web interface for a logistics firm, handling both front-end and back-end development. This showcased my expertise in:
 
 Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3, SCSS, Material UI, Tailwind
+
 Back-End: Ruby, Ruby on Rails, Capybara, Devise, PostgreSQL
+
 Tools & Methods: Git, GitHub, TDD, Chrome DevTools
+
 Professional Skills: System Design, Architecture, Mentoring, Planning, Remote Pair-Programming
 
 I'm also exploring AI-driven solutions and expanding my skills in Three.js, Blender, and emerging frameworks.
