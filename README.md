@@ -1,18 +1,20 @@
 # Vangelis Fotiadis 
-🚀 Full Stack Developer | Mandarin Teacher | Former Maritime Professional  | Inspired to Build Pioneering Tech Projects 🌟  
+🚀 Full-Stack Developer | AI for Expats & Small Firms 
 
-As a Full Stack Developer, I bring a unique blend of experiences from my previous roles in the maritime industry and as a Mandarin teacher & translator. I was previously an Educational Mentor at Microverse, a remote software development organization, where I've completed over 40 real-life projects, mastering both front-end and back-end technologies.
+I bring a unique blend of experiences—from the maritime industry to teaching Mandarin and building pioneering tech solutions. My journey in software development has been shaped by a passion for problem-solving, cross-cultural communication, and driving digital transformation.
 
-During the course of this journey, I had the privilege to meet 300+ Full Stack Developers, investing over 1300 hours on mastering data structures and algorithms. What's more, I built a community of 150+ fellow Full Stack Developers which I am currently administering. I also mentored a small team of 5 junior developers. 🚀💡👥  
+Previously, I was an Educational Mentor at Microverse, a global remote software development program, where I completed over 40 real-world projects, mastering both front-end and back-end technologies. Along the way, I engaged with 300+ Full-Stack Developers, investing 1,300+ hours in data structures, algorithms, and collaborative programming. I also built and currently administer a community of 150+ developers, mentoring a team of 5 junior devs.
 
-In my latest capstone project, I spearheaded the development of a comprehensive web interface for a logistics firm. Both front-end and back-end, showcasing my proficiency in HTML/CSS, JavaScript, React, Redux, Ruby, Rails, and PostgreSQL. Combining my passion for languages with my love for coding, I crafted a seamless user experience that I'm truly proud of.
+🛠 Recent Projects & Expertise
 
-🔧 Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3, SCSS, MaterialUI, Tailwind <br>
-⚙️ Back-End: Ruby, Ruby on Rails, Capybara, Devise, PostgreSQL <br>
-🛠️ Tools & Methods: Git, Github, TDD, Chrome Dev Tools <br>
-💼 Professional Skills: Remote Pair-Programming, System Designing, Architecture, Mentoring, Planning <br>
+In my latest capstone project, I led the development of a comprehensive web interface for a logistics firm, handling both front-end and back-end development. This showcased my expertise in:
 
-I am also honing my skill in other frameworks and libraries such as Three.js and Blender.
+Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3, SCSS, Material UI, Tailwind
+Back-End: Ruby, Ruby on Rails, Capybara, Devise, PostgreSQL
+Tools & Methods: Git, GitHub, TDD, Chrome DevTools
+Professional Skills: System Design, Architecture, Mentoring, Planning, Remote Pair-Programming
+
+I'm also exploring AI-driven solutions and expanding my skills in Three.js, Blender, and emerging frameworks.
  
 ![I am an aspiring Full Stack  developer.](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif) 
 
@@ -20,10 +22,10 @@ I am also honing my skill in other frameworks and libraries such as Three.js and
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=vangelif&label=Profile%20views&color=ce9927&style=flat" alt="vangelif" /> </p> 
 
+- 🌱 subscribe to Expat AI Chronicles <a  href="https://www.linkedin.com/newsletters/7298809227354009600/">newsletter</a> 
+- 📫 reach out <a href="https://www.linkedin.com/in/vangelif/">here</a>
 - 🔭 working as a Front End Developer at OdysseyCS 
 - ✨ admining dev deck 📟, a <a href="https://chat.whatsapp.com/DG71LdRpWNl51uu9ju2t6T">tech community</a> 
-- 🌱 building dev deck 📟 <a  href="https://docs.google.com/forms/d/1Jd4RjcaMdgoOMbLTwwM2CtjsHfnCRqjUKnG5E9-0vpA/prefill">projects</a> 
-- 📫 reach out <a href="https://call.whatsapp.com/video/uerFwXzF6lMEmmRKfEtjsr">here</a>
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93964796" alt="capstone" height="90" width="90" /><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92027157" alt="rails" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785422" alt="ruby" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794495" alt="html-css" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74439977" alt="javascript" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898521" alt="html-css" height="90" width="90"/> 
 
