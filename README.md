@@ -2,7 +2,7 @@
 🚀 Full-Stack Developer | AI for Expats & Small Firms 
 
 I bring a unique blend of experiences—from the maritime industry to teaching Mandarin and building pioneering tech solutions. My journey in software development has been shaped by a passion for problem-solving, cross-cultural communication, and driving digital transformation.
-
+ 
 Previously, I was an Educational Mentor at Microverse, a global remote software development program, where I completed over 40 real-world projects, mastering both front-end and back-end technologies. Along the way, I engaged with 300+ Full-Stack Developers, investing 1,300+ hours in data structures, algorithms, and collaborative programming. I also built and currently administer a community of 150+ developers, mentoring a team of 5 junior devs.
 
 🛠 Recent Projects & Expertise
