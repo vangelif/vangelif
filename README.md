@@ -11,7 +11,7 @@ In my latest capstone project, I led the development of a comprehensive web inte
 
 Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3, SCSS, Material UI, Tailwind
 
-Back-End: Ruby, Ruby on Rails, Capybara, Devise, PostgreSQL
+Back-End: C#, Ruby, Ruby on Rails, Capybara, Devise, PostgreSQL
 
 Tools & Methods: Git, GitHub, TDD, Chrome DevTools
 
