@@ -5,9 +5,9 @@ I bring a unique blend of experiences—from the maritime industry to teaching M
  
 Previously, I was an Educational Mentor at Microverse, a global remote software development program, where I completed over 40 real-world projects, mastering both front-end and back-end technologies. Along the way, I engaged with 300+ Full-Stack Developers, investing 1,300+ hours in data structures, algorithms, and collaborative programming. I also built and currently administer a community of 150+ developers, mentoring a team of 5 junior devs.
 
-🛠 Recent Projects & Expertise
+<!--🛠 Recent Projects & Expertise
 
-In my latest capstone project, I led the development of a comprehensive web interface for a logistics firm, handling both front-end and back-end development. This showcased my expertise in:
+In my capstone project, I led the development of a comprehensive web interface for a logistics firm, handling both front-end and back-end development. This showcased my expertise in:
 
 Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3, SCSS, Material UI, Tailwind
 
@@ -17,9 +17,9 @@ Tools & Methods: Git, GitHub, TDD, Chrome DevTools
 
 Professional Skills: System Design, Architecture, Mentoring, Planning, Remote Pair-Programming
 
-I'm also exploring AI-driven solutions and expanding my skills in Three.js, Blender, and emerging frameworks.
+<!-- I'm also exploring AI-driven solutions and expanding my skills in Three.js, Blender, and emerging frameworks. -->
  
-![I am an aspiring Full Stack  developer.](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif) 
+![](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif) 
 
 ## Latest Status 
 
@@ -74,11 +74,11 @@ I'm also exploring AI-driven solutions and expanding my skills in Three.js, Blen
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="java" width="60" height="60"/> </a>  
--->
+
 
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vangelif&show_icons=true&locale=en&layout=compact" alt="vangelif" /></p><br><br>
-
+-->
 <!--## Recommended reading
   
 - <a href="https://blog.codinghorror.com/">Jeff Atwood's Blog</a>
