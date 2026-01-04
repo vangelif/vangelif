@@ -1,10 +1,13 @@
 # Vangelis Fotiadis 
 🚀 Full-Stack Developer | AI for Expats & Small Firms 
 
+![](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif) 
+
 I bring a unique blend of experiences—from the maritime industry to teaching Mandarin and building pioneering tech solutions. My journey in software development has been shaped by a passion for problem-solving, cross-cultural communication, and driving digital transformation.
  
 Previously, I was an Educational Mentor at Microverse, a global remote software development program, where I completed over 40 real-world projects, mastering both front-end and back-end technologies. Along the way, I engaged with 300+ Full-Stack Developers, investing 1,300+ hours in data structures, algorithms, and collaborative programming. I also built and currently administer a community of 150+ developers, mentoring a team of 5 junior devs.
 
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93964796" alt="capstone" height="90" width="90" /><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92027157" alt="rails" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785422" alt="ruby" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794495" alt="html-css" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74439977" alt="javascript" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898521" alt="html-css" height="90" width="90"/> 
 <!--🛠 Recent Projects & Expertise
 
 In my capstone project, I led the development of a comprehensive web interface for a logistics firm, handling both front-end and back-end development. This showcased my expertise in:
@@ -19,8 +22,6 @@ Professional Skills: System Design, Architecture, Mentoring, Planning, Remote Pa
 
 <!-- I'm also exploring AI-driven solutions and expanding my skills in Three.js, Blender, and emerging frameworks. -->
  
-![](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif) 
-
 ## Latest Status 
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=vangelif&label=Profile%20views&color=ce9927&style=flat" alt="vangelif" /> </p> 
@@ -30,9 +31,7 @@ Professional Skills: System Design, Architecture, Mentoring, Planning, Remote Pa
 - ✨ admining dev deck 📟, a <a href="https://chat.whatsapp.com/DG71LdRpWNl51uu9ju2t6T">tech community</a> 
 <!-- - 🔭 working as a Front End Developer at OdysseyCS -->
 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93964796" alt="capstone" height="90" width="90" /><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92027157" alt="rails" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785422" alt="ruby" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794495" alt="html-css" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74439977" alt="javascript" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898521" alt="html-css" height="90" width="90"/> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangelif&show_icons=true&theme=monokai)
 
 <!-- ## Watch   
  
