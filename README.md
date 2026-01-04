@@ -27,8 +27,8 @@ I'm also exploring AI-driven solutions and expanding my skills in Three.js, Blen
 
 - 🌱 subscribe to Expat AI Chronicles <a  href="https://www.linkedin.com/newsletters/7298809227354009600/">newsletter</a> 
 - 📫 reach out <a href="https://www.linkedin.com/in/vangelif/">here</a>
-- 🔭 working as a Front End Developer at OdysseyCS 
 - ✨ admining dev deck 📟, a <a href="https://chat.whatsapp.com/DG71LdRpWNl51uu9ju2t6T">tech community</a> 
+<!-- - 🔭 working as a Front End Developer at OdysseyCS -->
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93964796" alt="capstone" height="90" width="90" /><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92027157" alt="rails" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785422" alt="ruby" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794495" alt="html-css" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74439977" alt="javascript" height="90" width="90"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898521" alt="html-css" height="90" width="90"/> 
 
@@ -51,7 +51,7 @@ I'm also exploring AI-driven solutions and expanding my skills in Three.js, Blen
 
 <!-- ## Support
 - <a href="https://vangelis.website/charity">Offer to the Greater Good</a>
---> 
+ 
 ## Stack
 <p align="left">
 
@@ -74,7 +74,7 @@ I'm also exploring AI-driven solutions and expanding my skills in Three.js, Blen
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="java" width="60" height="60"/> </a>  
-
+-->
 
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vangelif&show_icons=true&locale=en&layout=compact" alt="vangelif" /></p><br><br>
