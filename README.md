@@ -45,6 +45,7 @@ Professional Skills: System Design, Architecture, Mentoring, Planning, Remote Pa
 <p align="left">
 <a href="https://www.linkedin.com/in/vangelif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@vangfot" height="30" width="40" /></a>
 <a href="https://twitter.com/vangelif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vangfot" height="30" width="40" /></a>
+<a href="https://www.facebook.com/in/vangelif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@vangfot" height="30" width="40" /></a>
 
 </p> 
 
